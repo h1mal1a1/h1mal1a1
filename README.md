@@ -5,7 +5,7 @@ I'm Anton, a .NET Backend Developer focused on backend services, integrations an
 ### Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq,docker,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq,docker,git,react,ts,grafana,gitlab" />
   <img src="https://cdn.simpleicons.org/minio/C72E49" width="48" height="48" alt="MinIO" />
 </p>
 
