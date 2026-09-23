@@ -4,4 +4,6 @@ I'm Anton, a .NET Backend Developer.
 
 ### Languages and Tools
 
-C# • .NET • ASP.NET Core • PostgreSQL • RabbitMQ • Docker • MinIO • Git
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq,docker,git,redis" />
+</p>
