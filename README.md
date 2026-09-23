@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anton, a .NET Backend Developer.
+I'm Anton, a .NET Backend Developer focused on backend services, integrations and data processing.
 
 ### Languages and Tools
 
