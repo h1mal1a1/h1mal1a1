@@ -10,4 +10,4 @@ I'm Anton, a .NET Backend Developer.
 
 ### GitHub Metrics
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" />
+<img src="./github-metrics.svg?v=2" alt="GitHub Metrics" />
