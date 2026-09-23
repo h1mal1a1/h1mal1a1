@@ -20,8 +20,6 @@ Backend service for managing clients and user connections on VPS through the 3X-
 ![Docker](https://img.shields.io/badge/Docker-2496ED)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4)
 
----
-
 ### [CosmeticEnterprise](https://github.com/h1mal1a1/CosmeticEnterprise)
 
 Full-stack e-commerce application with .NET backend and React/TypeScript frontend.
@@ -31,8 +29,6 @@ Full-stack e-commerce application with .NET backend and React/TypeScript fronten
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1)
 ![MinIO](https://img.shields.io/badge/MinIO-S3-C72E49)
 ![Docker](https://img.shields.io/badge/Docker-2496ED)
-
----
 
 ### [NotificationService](https://github.com/h1mal1a1/NotificationService)
 
